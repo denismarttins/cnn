@@ -10,9 +10,11 @@ Antes de submeter as imagens à rede neural, as radiografias passaram pelo trata
 Após o treinamento, foram fornecidas à CNN imagens que foram separadas para teste, ou seja, que não estavam no conjunto de radiografias usadas para o treinamento. Isso significa que a CNN avaliou, ao término, imagens que ela nunca tinha processado. 
 
 Minha playlist de programação:
+
 https://youtube.com/playlist?list=PLH6D3VQZKE164wCyCtynGGtZBr4wpbXUW
 
 Links úteis:
+
 https://developers.google.com/codelabs/tensorflow-2-computervision#0
 
 https://developers.google.com/codelabs/tensorflow-3-convolutions#0
@@ -20,5 +22,6 @@ https://developers.google.com/codelabs/tensorflow-3-convolutions#0
 https://developers.google.com/codelabs/tensorflow-5-compleximages#0
 
 Assista esse vídeo:
+
 https://youtu.be/fbxVrARF0a8
 
