@@ -70,7 +70,7 @@ model = tf.keras.models.Sequential([
     tf.keras.layers.Flatten(),
     # 512 neuron hidden layer
     tf.keras.layers.Dense(512, activation='relu'),
-    # Only 1 output neuron. It will contain a value from 0-1 where 0 for 1 class ('sem Covid') and 1 for the other ('com Covid')
+    # Only 1 output neuron. It will contain a value from 0-1 where 0 for 1 class ('com Covid') and 1 for the other ('sem Covid')
     tf.keras.layers.Dense(1, activation='sigmoid')
 ])
 
