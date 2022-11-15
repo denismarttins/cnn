@@ -14,7 +14,9 @@ https://youtube.com/playlist?list=PLH6D3VQZKE164wCyCtynGGtZBr4wpbXUW
 
 Links úteis:
 https://developers.google.com/codelabs/tensorflow-2-computervision#0
+
 https://developers.google.com/codelabs/tensorflow-3-convolutions#0
+
 https://developers.google.com/codelabs/tensorflow-5-compleximages#0
 
 Assista esse vídeo:
